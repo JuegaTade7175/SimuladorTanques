@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ObfuscationProSettings">
+    <option name="detectedTool" value="PROGUARD" />
+    <option name="firstDetectionNotificationShown" value="true" />
+    <option name="moduleSettings">
+      <list>
+        <ModuleState>
+          <option name="detectedTool" value="PROGUARD" />
+          <option name="moduleName" value="&lt;root&gt;" />
+          <option name="modulePath" value="$PROJECT_DIR$" />
+          <option name="primaryConfigPath" value="$PROJECT_DIR$/proteger.pro" />
+        </ModuleState>
+      </list>
+    </option>
+    <option name="primaryConfigPath" value="$PROJECT_DIR$/proteger.pro" />
+  </component>
+</project>
