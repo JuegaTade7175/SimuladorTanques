@@ -1,4 +1,4 @@
-package com.ejercito.simulador;
+package com.ejercito.simulador.config;
 
 public class ConfiguradorCFG {
     
